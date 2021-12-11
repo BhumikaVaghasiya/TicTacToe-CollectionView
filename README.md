@@ -1,3 +1,4 @@
 # TicTacToe-CollectionView
 
-![Screen_Recording_2021-12-10_at_9_34_24_AM_SparkVideo_SparkVideo](https://user-images.githubusercontent.com/89537132/145516057-b115ef58-af84-423e-bfa0-b847867c4444.gif)
+![Screen_Recording_2021-12-10_at_9_34_24_AM_SparkVideo-3](https://user-images.githubusercontent.com/89537132/145672360-dc811252-076f-403b-9072-4897bbf3095d.gif)
+
